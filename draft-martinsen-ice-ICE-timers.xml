@@ -34,11 +34,11 @@
 
     <abstract>
       <t>
-        The ICE RFC contains pacing and timer values. As the world
-        moves on and the network gear in Cullens closet initially used
-        to test and figure out those values can now safely be
-        concidered obsolete. This documents describes the current
-        timer values and pacing recommendations.
+        The ICE set of RFCs contains pacing and timer values. The
+        network gear initially used to test and figure out those
+        values can now safely be considered obsolete. This document
+        describes the current timer values and pacing recommendations
+        for the ICE RFCs.
       </t>
     </abstract>
   </front>
@@ -99,7 +99,7 @@
 
       </section>
      
-      <section title="Concent">
+      <section title="Consent">
 
       </section>
 
